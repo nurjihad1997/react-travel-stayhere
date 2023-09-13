@@ -1,0 +1,91 @@
+.a-container {
+  overflow: hidden;
+  position: relative;
+}
+
+.about {
+  color: black;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.image-about {
+  width: 36rem;
+  height: 36rem;
+  overflow: hidden;
+  border-radius: 1rem 1rem 1rem 1rem;
+  margin: 30px;
+}
+
+.image-about > img {
+  width: 100%;
+  height: 100%;
+}
+
+.about-right {
+  gap: 1.5rem;
+}
+
+.about-title {
+  position: relative;
+  z-index: 1;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1em;
+  color: #055087;
+}
+
+.about-title > h1 {
+  padding-top: 0.5rem;
+  font-weight: 200;
+  font-size: 3rem;
+  line-height: 1em;
+  color: black;
+}
+
+.about-des {
+  font-size: 1rem;
+  color: var(--primary);
+}
+
+@media (max-width: 768px) {
+  .image-about {
+    width: 30rem;
+    height: 30rem;
+  }
+  .title {
+    font-size: 0.8rem;
+  }
+  .about-title > h1 {
+    font-size: 2rem;
+  }
+
+  .about-des {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 560px) {
+  .image-about {
+    width: 25rem;
+    height: 25rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .image-about {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .image-about {
+    width: 15rem;
+    height: 15rem;
+  }
+}

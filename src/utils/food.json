@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Family Menu",
+    "price": "$18/family package",
+    "description": "Special Menu Family",
+    "image": "./Food1.png"
+  },
+  {
+    "name": "Healthy Bread",
+    "price": "$8/portions",
+    "description": "Low Sugar Bread",
+    "image": "./Food2.png"
+  },
+  {
+    "name": "Ice Cream",
+    "price": "$4/portions",
+    "description": "Ice cream with chocolate topping",
+    "image": "./Food3.png"
+  },
+  {
+    "name": "Fish Steak",
+    "price": "$40/portions",
+    "description": "Special steak for fish lovers",
+    "image": "./Food4.png"
+  },
+  {
+    "name": "Healthy Bread",
+    "price": "$8/portions",
+    "description": "Low Sugar Bread",
+    "image": "./Food2.png"
+  },
+  {
+    "name": "Ice Cream",
+    "price": "$4/portions",
+    "description": "Ice cream with chocolate topping",
+    "image": "./Food3.png"
+  }
+]

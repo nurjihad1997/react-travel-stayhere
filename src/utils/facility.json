@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Room Meeting",
+        "image" : "Facility1.png"
+    },
+    {
+        "name" : "Bar and Coffe",
+        "image" : "Facility2.png"
+    },
+    {
+        "name" : "Swimming Pool",
+        "image" : "Facility3.png"
+    },
+    {
+        "name" : "Parking Area",
+        "image" : "Facility4.png"
+    },
+    {
+        "name" : "Bar and Coffe",
+        "image" : "Facility2.png"
+    },
+    {
+        "name" : "Swimming Pool",
+        "image" : "Facility3.png"
+    }
+
+]

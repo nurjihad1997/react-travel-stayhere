@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Flower Room",
+    "price": "$10/night",
+    "description": "Flower room for two people",
+    "image": "./Room1.png"
+  },
+  {
+    "name": "Relax Room",
+    "price": "$9/night",
+    "description": "Relax room for big family",
+    "image": "./Room2.png"
+  },
+  {
+    "name": "Green Room",
+    "price": "$30/night",
+    "description": "Green room for everyone",
+    "image": "./Room3.png"
+  },
+  {
+    "name": "Study Room",
+    "price": "$15/night",
+    "description": "Study room for student",
+    "image": "./Room4.png"
+  },
+  {
+    "name": "Relax Room",
+    "price": "$9/night",
+    "description": "Relax room for big family",
+    "image": "./Room2.png"
+  },
+  {
+    "name": "Green Room",
+    "price": "$30/night",
+    "description": "Green room for everyone",
+    "image": "./Room3.png"
+  }
+]
